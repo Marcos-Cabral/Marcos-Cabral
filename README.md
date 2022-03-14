@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcos Cabral 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Marcos Cabral</h1>
 <h3 align="center">A passionate FullStack Developer from Argentina</h3>
 
 - 🔭 I’m currently working on **Globons**
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marcos-Cabral](https://github.com/Marcos-Cabral)
 
-- 📫 How to reach me **marcoscabral2506@gmail.com**
+- 📫 You can contact me through **marcoscabral2506@gmail.com**
 
 - ⚡ Fun fact **I like astronomy and everything that has to do with space**
 
